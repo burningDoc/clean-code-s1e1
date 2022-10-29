@@ -166,6 +166,7 @@ input,
 .todo_edit-mode .todo__text {
   display: inline-block;
   width: 224px;
+  flex-grow: 1;
 }
 
 .todo_edit-mode .todo__task {
